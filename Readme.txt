@@ -1,1 +1,1 @@
-Web Scraping example using beautiful soup and requests
+Web Scarping of different tourist places in Karnataka for finding  out the suggested ideal time to visit from  8 different websites (such as goibibo, makemytrip, holidify etc) using web scrapping tools like Beautiful Soup and  Requests library in python.
